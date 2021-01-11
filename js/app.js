@@ -32,7 +32,7 @@ var Heart = function() {
 
     //The image of the heart is added
 
-    this.heart = 'images/Heart.png';
+    this.heart = 'images/heart.png';
 	
 };
 
